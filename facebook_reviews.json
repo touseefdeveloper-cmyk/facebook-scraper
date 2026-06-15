@@ -9,15 +9,15 @@
   {
     "id": "american-vision-windows",
     "facebook_url": "https://www.facebook.com/AmericanVisionWindows/",
-    "total_reviews": "495",
+    "total_reviews": "496",
     "recommend_percent": "96",
     "error": null
   },
   {
     "id": "one-week-bath",
     "facebook_url": "https://www.facebook.com/oneweekbath/",
-    "total_reviews": "20",
-    "recommend_percent": "96",
+    "total_reviews": null,
+    "recommend_percent": null,
     "error": null
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": "payless-kitchen-cabinets",
     "facebook_url": "https://www.facebook.com/paylesskitchencabinets/",
-    "total_reviews": "224",
+    "total_reviews": "225",
     "recommend_percent": "96",
     "error": null
   },
