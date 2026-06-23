@@ -2,8 +2,8 @@
   {
     "id": "cabinet-refresh",
     "facebook_url": "https://www.facebook.com/CabinetRefresh/",
-    "total_reviews": null,
-    "recommend_percent": null,
+    "total_reviews": "8",
+    "recommend_percent": "100",
     "error": null
   },
   {
@@ -65,8 +65,8 @@
   {
     "id": "gm-home-remodeling",
     "facebook_url": "https://www.facebook.com/GandMHomeRemodelinginc/",
-    "total_reviews": null,
-    "recommend_percent": null,
+    "total_reviews": "15",
+    "recommend_percent": "100",
     "error": null
   }
 ]
