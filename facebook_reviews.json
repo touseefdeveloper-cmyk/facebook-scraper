@@ -37,14 +37,14 @@
   {
     "id": "mr-cabinet-care",
     "facebook_url": "https://www.facebook.com/Cabinet.Care",
-    "total_reviews": null,
-    "recommend_percent": null,
+    "total_reviews": "89",
+    "recommend_percent": "92",
     "error": null
   },
   {
     "id": "payless-kitchen-cabinets",
     "facebook_url": "https://www.facebook.com/paylesskitchencabinets/",
-    "total_reviews": "226",
+    "total_reviews": "227",
     "recommend_percent": "96",
     "error": null
   },
