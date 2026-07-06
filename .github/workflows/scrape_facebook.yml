@@ -2,7 +2,7 @@ name: Scrape Facebook Reviews
 
 on:
   schedule:
-    - cron: "0 10 * * 1"   # Every Monday at 10:00 AM UTC (1 hour after Angi)
+    - cron: "0 11 1 * *"   # Every Monday at 10:00 AM UTC (1 hour after Angi)
   workflow_dispatch:
 
 permissions:
