@@ -2,15 +2,15 @@
   {
     "id": "cabinet-refresh",
     "facebook_url": "https://www.facebook.com/CabinetRefresh/",
-    "total_reviews": "8",
-    "recommend_percent": "100",
+    "total_reviews": null,
+    "recommend_percent": null,
     "error": null
   },
   {
     "id": "american-vision-windows",
     "facebook_url": "https://www.facebook.com/AmericanVisionWindows/",
     "total_reviews": "504",
-    "recommend_percent": "94",
+    "recommend_percent": "96",
     "error": null
   },
   {
@@ -23,7 +23,7 @@
   {
     "id": "abc-pro",
     "facebook_url": "https://www.facebook.com/TheABCPro/",
-    "total_reviews": "1",
+    "total_reviews": null,
     "recommend_percent": null,
     "error": null
   },
@@ -44,8 +44,8 @@
   {
     "id": "payless-kitchen-cabinets",
     "facebook_url": "https://www.facebook.com/paylesskitchencabinets/",
-    "total_reviews": null,
-    "recommend_percent": null,
+    "total_reviews": "230",
+    "recommend_percent": "96",
     "error": null
   },
   {
